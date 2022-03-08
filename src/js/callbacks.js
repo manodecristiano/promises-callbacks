@@ -16,7 +16,7 @@ const heroes = {
 
 
 //el callback retorna el heroe
-export const buscarHeroe = ( id, callback ) => {
+/*export const buscarHeroe = ( id, callback ) => {
 
     const heroe = heroes[id];
 
@@ -31,4 +31,4 @@ if ( heroe ){
 
     //callback( heroe );
   
-}
+}*/
